@@ -1,2 +1,2 @@
 # hello-world
-test code only
+test code only for a hello-world testing.
